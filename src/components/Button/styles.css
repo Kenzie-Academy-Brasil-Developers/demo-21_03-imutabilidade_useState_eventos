@@ -1,0 +1,21 @@
+.content-button-green {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: green;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 500ms;
+}
+
+.content-button:hover {
+  background-color: blueviolet;
+}
+
+.content-button-red {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: red;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: all 500ms;
+}
